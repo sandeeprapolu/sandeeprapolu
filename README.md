@@ -1,42 +1,33 @@
-# 👋 Hi, I'm Sandeep Rapolu
+# 👋 Hey, I'm Sandeep Rapolu
 
-🎯 **QA Automation Engineer | Aspiring SDET | Passionate about Scalable Test Automation**
+💻 **QA Automation Engineer | Eager Learner | Future Open Source Contributor**
 
-I'm a QA Automation Engineer with **4+ years** of experience in building robust and maintainable automation frameworks for Web, Mobile, and API testing. I’m constantly learning, experimenting with new tools, and aiming to transition into a full-fledged **SDET** role.
-
----
-
-## 🚀 Tech Stack & Tools
-
-- **Languages:** Java  
-- **Web Automation:** Selenium, Cucumber, TestNG  
-- **Mobile Automation:** Appium (Android & iOS)  
-- **API Testing:** RestAssured, Postman  
-- **Build Tools:** Maven, Gradle  
-- **CI/CD:** Jenkins  
-- **Version Control:** GitHub, Bitbucket
+I'm passionate about building scalable, maintainable automation frameworks and constantly exploring better ways to test software. With 4+ years of experience in test automation for web, mobile, and API platforms, I'm now looking to **learn, grow, and contribute** to the open-source community.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 What I'm Up To
 
-- Advanced SDET Concepts  
-- TestOps & Test Observability  
-- AI in Test Automation  
-- Contributing to Open Source Projects
-
----
-
-## 🤝 Let's Collaborate!
-
-I’m open to:
-- Contributing to test automation or quality engineering projects  
-- Learning from other developers and testers  
-- Sharing insights with the community  
-
-📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sandeeprapolu/) or check out my [Medium Blog](https://medium.com/@sandeeprapolu9)
+- Learning more about test stability, test design, and SDET best practices  
+- Exploring automation trends and DevOps integrations  
+- Reading open-source code to understand contribution patterns  
+- Planning to contribute to test frameworks and documentation-first issues
 
 ---
 
-_Thanks for stopping by! ⭐ Feel free to explore my repositories and connect if you're interested in collaborating._
+## 🚀 Why I'm Here on GitHub
 
+While I haven’t contributed to open-source projects **yet**, I’m here to:
+- **Learn from others**
+- **Document and share my own learning journey**
+- **Start contributing—no matter how small the change**
+
+---
+
+## 📬 Let’s Connect
+
+If you're a fellow tester, developer, or mentor who loves automation or open source, feel free to connect on [LinkedIn](https://www.linkedin.com/in/sandeeprapolu/) or check out my [Medium Blog](https://medium.com/@sandeeprapolu9). I'm always open to conversations and collaborations.
+
+---
+
+_Thanks for visiting my GitHub profile!_
